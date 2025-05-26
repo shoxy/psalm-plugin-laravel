@@ -30,7 +30,7 @@
         "illuminate/support": "^9 || ^11.35 || ^12.0",
         "illuminate/view": "^9 || ^11.35 || ^12.0",
         "nikic/php-parser": "^5.0",
-        "orchestra/testbench-core": "^9.11 || ^10.0",
+        "orchestra/testbench-core": "*",
         "symfony/console": "^6.1 || ^7.1",
         "symfony/finder": "^6.1 || ^7.1",
         "vimeo/psalm": "dev-master || ^6.0 || ^7.0.0-beta1"
